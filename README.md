@@ -10,6 +10,10 @@
 
 単独ページへのURLと画像URLのペアを集めたデータです。実際には猫の画像でないものが含まれています(今後整理予定)。
 
+* classified-cat-jp-images.txt
+
+前述のデータのうち、猫の画像ある程度の面積を占めており、なおかつ猫であると判別しやすいものを選別した画像のみのURLリストです。
+
 # Pixabay cat image URLs list
 
 URLs list collection from [Pixabay](https://pixabay.com/).
@@ -20,3 +24,6 @@ URLs list collection from [Pixabay](https://pixabay.com/).
 
 It consists a pair of the individual page URLs and image URLs. They have some non-cat images.
 
+* classified-cat-jp-images.txt
+
+Exactly images URL list that contains cat shape in some size of area, classified from the above list.
